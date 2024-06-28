@@ -1,0 +1,41 @@
+.breadcrumbs {
+    color: #565959;
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+body {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 25px;
+}
+
+.title {
+    font-weight: lighter;
+    margin-bottom: 0px;
+}
+
+.author-url {
+    color: #007185;
+}
+
+.rating-img {
+    display: block;
+    width: 150px;
+}
+
+.left {
+    margin: 0 30px 0 0;
+}
+
+.right {
+    margin: 35px 0 0 0;
+}
+
+
+
+
+
